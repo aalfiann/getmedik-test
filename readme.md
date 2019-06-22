@@ -1,14 +1,14 @@
 # Total.js: Tester Project - REST API Service
 
-- download tester source code then extract
+- download this source code then extract
 - open terminal / command-line
-- open app directory
+- go inside the source directory
 - install `$ npm install`
 - run `$ node debug.js`
 - open browser `http://127.0.0.1:8000`
 
 ## Answer Test
-1. Rest API is required `x-token` header
+1. Rest API is required `x-token` header for products only
 ```
 // choose one of these:
 - d88ad6cd-1112-4fc9-a20a-6ff75ed4d2da
